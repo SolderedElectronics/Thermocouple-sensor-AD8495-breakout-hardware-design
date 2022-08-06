@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C3,C1";"0603C";2;"0.01uF";;;
+2;"R4";"0603R";1;"1K";;;
+3;"L1";"0603L";1;"Ferrite bead";;;
+4;"R3,R2";"0603R";2;"100R";;;
+5;"C4,C2";"0603C";2;"0.1uF";;;
+6;"REF**";"Logo-Front-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+7;"REF**";"Logo-Back-SolderedFULL-17mm";1;"Logo-Front-SolderedFULL-17mm";;;
+8;",,,,,";"buzzardLabel";6;"";;;
+9;"K1";"TERMINAL_KF235-5.0-2P";1;"TERMINAL_KF235-5.0-2P";;;
+10;"H1,H2";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+11;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+12;"U1";"SOT-23-3";1;"TL431";;;
+13;"U2";"TP4056M-MSOP8";1;"AD8495ARMZ";;;
+14;"R1";"0603R";1;"1M";;;
+15;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+16;"Ref**";"Version1.0.0.";1;"Val**";;;
+17;"K2";"HEADER_MALE_3X1";1;"HEADER_MALE_3X1";;;
