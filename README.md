@@ -1,10 +1,10 @@
-# <INSERT PRODUCT NAME> Hardware Design
+# Thermocouple sensor AD8495 breakout Hardware Design
 
 ## About the Product
 
-| ![<INSERT PRODUCT NAME> Image](https://solde.red/<INSERT SKU>/image) |
+| ![Thermocouple sensor AD8495 breakout Image](https://solde.red/333053/image) |
 | :----------------------------------------------------------: |
-| [Buy <INSERT PRODUCT NAME>](https://www.solde.red/<INSERT SKU>) |
+| [Buy Thermocouple sensor AD8495 breakout](https://www.solde.red/333053) |
 
 <INSERT PRODUCT DESCRIPTION>
 
@@ -12,7 +12,7 @@
 
 ## Repository Contents
 
-This repository contains all design files for <INSERT PRODUCT NAME>, organized as follows:
+This repository contains all design files for Thermocouple sensor AD8495 breakout, organized as follows:
 
 - **`CAD` folder**: Contains KiCAD design files, including:
   - Schematics
